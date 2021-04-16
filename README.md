@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish12356789
 - 👀 I’m interested in php laravel, python Django.
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently working on Django. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
