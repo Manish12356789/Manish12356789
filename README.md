@@ -32,9 +32,9 @@ I primarily work with PHP Laravel and also explore Python Django for modern web 
 - Web Application Development
 
 ## 📫 Contact Me
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
-- Portfolio: your-portfolio-link
+- Email: manishparajuli2018@gmail.com
+- LinkedIn: www.linkedin.com/in/manish-parajuli-1077661b1
+- Portfolio: https://manishparajuli2000.com.np/
 
 ## ⚡ Fun Fact
 I enjoy solving complex backend problems and turning ideas into real-world systems.
